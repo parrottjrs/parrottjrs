@@ -5,9 +5,7 @@
 - :computer: Student at [Get Coding NL](https://www.getcoding.ca)
 - :books: Bachelor of Linguistics, MUN 2010 
 - :construction_worker: Former construction worker 
-- ::cat2:: I have a cat named Poe
-
-- In February 2023 I began a full stack dev course at Get Coding NL. 
+- :cat2: I have a cat named Poe
 
 #### Languages I've Used:
 
@@ -17,12 +15,12 @@
 
 ##Things I've Worked On:
 
-- [Totes McNotes](###totes-mcnotes)
-- [Word Wizard](###word-wizard)
-- [Canvas Practice](###canvas-practice)
-- [Nameless RPG](###nameless-rpg)
+- [Totes McNotes](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes)
+- [Word Wizard](https://github.com/parrottjrs/Word-Generator#word-wizard)
+- [Canvas Practice](https://github.com/parrottjrs/canvas-practice#canvas-practice)
+- [Nameless RPG](https://github.com/parrottjrs/nameless-rpg#nameless-rpg)
 
-### [Totes McNotes](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes)
+### Totes McNotes
 
 Totes McNotes is my main project for the first module of my course, and my first _real_ stab at using HTML, CSS, and JS.
 
@@ -36,7 +34,7 @@ Througout the creation of Totes, I've learned about many of the basic principles
 https://user-images.githubusercontent.com/124001846/232256711-57b3289f-842a-4451-851c-5b9a5b594c85.mp4
 
 
-### [Word Wizard](https://github.com/parrottjrs/Word-Generator#word-wizard)
+### Word Wizard
 
 Word Wizard was my first project and my introduction to front-end development. 
 
@@ -44,7 +42,7 @@ It is a random word-generator that uses asynchronous functions to either pull fr
 
 Working on this project gave me a solid understanding of HTML elements, the relationship between HTML and CSS, how to create JS functions, event listeners, and basic array use. I was also briefly introduced to asynchronous functions and APIs while working on this one.
 
-### [Canvas Practice](https://github.com/parrottjrs/canvas-practice#canvas-practice)
+### Canvas Practice
 
 This was my intro to HTML5 canvas, and it was a ton of fun. By working on this, I learned about canvas context and how to draw on the canvas. I also learned about a few important concepts like OOP, event handling.
 
@@ -52,7 +50,7 @@ The main portion of this little project involved creating a function that draws 
 
 The second part was a test run for the canvas portion of Totes McNotes, where I created some squares and learned to handle mouse events on the canvas to drag the squares around.
 
-### [Nameless RPG](https://github.com/parrottjrs/nameless-rpg#nameless-rpg)
+### Nameless RPG
 
 There's not much to say about this one. I started working on this for nothing but fun and it turned into the canvas idea for Totes McNotes!
 
