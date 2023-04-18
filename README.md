@@ -20,7 +20,7 @@
 - [Canvas Practice](https://github.com/parrottjrs/canvas-practice#canvas-practice)
 - [Nameless RPG](https://github.com/parrottjrs/nameless-rpg#nameless-rpg)
 
-### Totes McNotes
+## Totes McNotes
 
 Totes McNotes is my main project for the first module of my course, and my first _real_ stab at using HTML, CSS, and JS.
 
@@ -34,13 +34,17 @@ Througout the creation of Totes, I've learned about many of the basic principles
 https://user-images.githubusercontent.com/124001846/232256711-57b3289f-842a-4451-851c-5b9a5b594c85.mp4
 
 
-### Word Wizard
+## Word Wizard
 
 Word Wizard was my first project and my introduction to front-end development. 
 
 It is a random word-generator that uses asynchronous functions to either pull from an array I created, or from an API. The word is given a random colour and font as well. For more randomness, I added a random quote function that pulls from an array upon loading the home page. 
 
 Working on this project gave me a solid understanding of HTML elements, the relationship between HTML and CSS, how to create JS functions, event listeners, and basic array use. I was also briefly introduced to asynchronous functions and APIs while working on this one.
+
+
+https://user-images.githubusercontent.com/124001846/232643374-7be8b342-a77c-4409-acc9-8577eb2a7df5.mp4
+
 
 ### Canvas Practice
 
