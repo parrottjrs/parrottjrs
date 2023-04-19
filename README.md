@@ -13,7 +13,7 @@
 - CSS 
 - Javascript 
 
-##Things I've Worked On:
+## Things I've Worked On:
 
 - [Totes McNotes](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes)
 - [Word Wizard](https://github.com/parrottjrs/Word-Generator#word-wizard)
@@ -21,6 +21,8 @@
 - [Nameless RPG](https://github.com/parrottjrs/nameless-rpg#nameless-rpg)
 
 ## Totes McNotes
+
+Check out the repo [here](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes) or [dive straight into the app](parrottjrs.github.io/totes-mcnotes/) 
 
 Totes McNotes is my main project for the first module of my course, and my first _real_ stab at using HTML, CSS, and JS.
 
@@ -36,6 +38,8 @@ https://user-images.githubusercontent.com/124001846/232256711-57b3289f-842a-4451
 
 ## Word Wizard
 
+https://github.com/parrottjrs/Word-Generator#word-wizard
+
 Word Wizard was my first project and my introduction to front-end development. 
 
 It is a random word-generator that uses asynchronous functions to either pull from an array I created, or from an API. The word is given a random colour and font as well. For more randomness, I added a random quote function that pulls from an array upon loading the home page. 
@@ -48,13 +52,17 @@ https://user-images.githubusercontent.com/124001846/232643374-7be8b342-a77c-4409
 
 ### Canvas Practice
 
-This was my intro to HTML5 canvas, and it was a ton of fun. By working on this, I learned about canvas context and how to draw on the canvas. I also learned about a few important concepts like OOP, event handling.
+https://github.com/parrottjrs/canvas-practice#canvas-practice
+
+This was my intro to HTML5 canvas, and it was a ton of fun. By working on this, I learned about canvas context and how to draw on the canvas. I also learned about a few important concepts like OOP and event handling.
 
 The main portion of this little project involved creating a function that draws out a preditermined number of circles that bounce, losing momentum and eventually staying on the bottom of the screen. I learned how to create forces such as gravity and friction as well as how to test for collisions between objects.
 
 The second part was a test run for the canvas portion of Totes McNotes, where I created some squares and learned to handle mouse events on the canvas to drag the squares around.
 
-### Nameless RPG
+### [Nameless RPG]
+
+https://github.com/parrottjrs/nameless-rpg#nameless-rpg
 
 There's not much to say about this one. I started working on this for nothing but fun and it turned into the canvas idea for Totes McNotes!
 
