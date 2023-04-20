@@ -22,7 +22,7 @@
 
 ## Totes McNotes
 
-Check out the repo [here](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes) or [dive straight into the app](parrottjrs.github.io/totes-mcnotes/) 
+Check out the repo [here](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes) or [dive straight into the app](https://parrottjrs.github.io/totes-mcnotes/) 
 
 Totes McNotes is my main project for the first module of my course, and my first _real_ stab at using HTML, CSS, and JS.
 
