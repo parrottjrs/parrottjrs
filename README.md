@@ -46,7 +46,11 @@ Think write is bit of a passion project that involves a some of my personal hist
 
 
 
-https://parrottjrs.github.io/think-write/assets/think-write-a6f6325d.mp4
+
+https://github.com/parrottjrs/parrottjrs/assets/124001846/981a8ac3-1ee7-4d15-a1a1-abf9c9160ca1
+
+
+
 
 
 
