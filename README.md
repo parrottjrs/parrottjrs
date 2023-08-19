@@ -7,18 +7,48 @@
 - :construction_worker: Former construction worker 
 - :cat2: I have a cat named Poe
 
-#### Languages I've Used:
+#### Coding Tools:
 
+- React
+- Typescript/Javascript
 - HTML5 
-- CSS 
-- Javascript 
+- CSS/Tailwind
+- Webflow
+- Wordpress 
 
 ## Things I've Worked On:
 
+- [Think-Write](https://github.com/parrottjrs/think-write#think-write)
 - [Totes McNotes](https://github.com/parrottjrs/totes-mcnotes#hi-my-name-is-jordan-and-welcome-to-totes-mcnotes)
 - [Word Wizard](https://github.com/parrottjrs/Word-Generator#word-wizard)
-- [Canvas Practice](https://github.com/parrottjrs/canvas-practice#canvas-practice)
-- [Nameless RPG](https://github.com/parrottjrs/nameless-rpg#nameless-rpg)
+
+# Think-Write
+
+Here's the [Think-Write repo](http://github.com/parrottjrs/think-write)
+or
+[Check out the app in all it's glory.](https://parrottjrs.github.io/think-write)
+
+Think-Write is the project that launched me into the wonderful world of React and Typescript. During its creationn I also used Tailwind for the first time.
+
+I learned many things from this project-- how to use state, reducers, useEffect, references, etc as well as how to manipulate .TSX files in an efficient and meaningful way. It provided me with hours of practice that bolstered my skills and confidence as a developer and solidified my understanding of many basic concepts that I learned in my previous projects. For now it uses local storage but in the future I plan on developing a back end for it.
+
+Think-Write is a modern replacement for word processors that gives the creator some tools to help with accountability during the process. The main features are: 
+
+### session lock
+
+Writers can save their text in a "locked" state. Locked text is read-only and is locked until a predetermined date. Once the "lock date" has passed, the writer is free to edit it. 
+
+### Pomodoro Timer
+
+Think-Write's built in timer gives the writer the choice between one of two timer rotations. Each selection gives the writer a pre-designated work-period followed by a shorter break period. This works on 4 rotations so the writer doesn't have to worry about resetting it too often.
+
+Think write is bit of a passion project that involves a some of my personal history. I won't get into that here but you can watch the video below for more info or refer to the [README]((https://github.com/parrottjrs/think-write#think-write)).
+
+
+
+https://parrottjrs.github.io/think-write/assets/think-write-a6f6325d.mp4
+
+
 
 ## Totes McNotes
 
@@ -48,27 +78,6 @@ Working on this project gave me a solid understanding of HTML elements, the rela
 
 
 https://user-images.githubusercontent.com/124001846/232643374-7be8b342-a77c-4409-acc9-8577eb2a7df5.mp4
-
-
-### Canvas Practice
-
-https://github.com/parrottjrs/canvas-practice#canvas-practice
-
-This was my intro to HTML5 canvas, and it was a ton of fun. By working on this, I learned about canvas context and how to draw on the canvas. I also learned about a few important concepts like OOP and event handling.
-
-The main portion of this little project involved creating a function that draws out a preditermined number of circles that bounce, losing momentum and eventually staying on the bottom of the screen. I learned how to create forces such as gravity and friction as well as how to test for collisions between objects.
-
-The second part was a test run for the canvas portion of Totes McNotes, where I created some squares and learned to handle mouse events on the canvas to drag the squares around.
-
-### [Nameless RPG]
-
-https://github.com/parrottjrs/nameless-rpg#nameless-rpg
-
-There's not much to say about this one. I started working on this for nothing but fun and it turned into the canvas idea for Totes McNotes!
-
-I haven't gotten very far, but I did learn some map theory, and how to use the Tiled map editor, which was a really cool experience!
-
-
 <!--
 **parrottjrs/parrottjrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
