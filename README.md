@@ -9,6 +9,7 @@
 
 #### Coding Tools:
 
+- NodeJS
 - React
 - Typescript/Javascript
 - HTML5 
