@@ -2,7 +2,7 @@
 
 ## a little bit about me: 
 
-- :computer: Student at [Get Coding NL](https://www.getcoding.ca)
+- :computer: Alumna at [Get Coding NL](https://www.getcoding.ca)
 - :books: Bachelor of Linguistics, MUN 2010 
 - :construction_worker: Former construction worker 
 - :cat2: I have a cat named Poe
