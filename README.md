@@ -12,8 +12,10 @@
 - NodeJS
 - React
 - Typescript/Javascript
+- AWS
 - HTML5 
 - CSS/Tailwind
+- Docker
 - Webflow
 - Wordpress 
 
